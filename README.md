@@ -2,11 +2,11 @@
 
 IIT Madras | July - December 2024
 
-Welcome to the repository for Data Analytics Laboratory (DA5401), part of the curriculum at IIT Madras. This repository contains solutions to the assignments and challenges undertaken as part of this course.
+Welcome to the repository for Data Analytics Laboratory (DA5401), part of the curriculum at IIT Madras. This repository contains solutions to the assignments and Ml challenge undertaken as part of this course.
 
 Contents
 
-Assignments: Each assignment is organized into its own folder, containing the problem statements, solutions, and necessary documentation.
+Assignments: Each assignment is organized into its own folder, containing the solutions for each of the assignments.
 
 Term-End ML Challenge: Includes the solution and analysis for the final machine learning challenge, a multi-label classification problem using ICD-10 codes.
 
